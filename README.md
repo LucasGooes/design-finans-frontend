@@ -1,5 +1,6 @@
-<p align="center">
-<img src=".github/finans.png" width="650px">
-</p>
+<link rel="stylesheet" href=".github/css/stilo.css">
 
-testando nova chave ssh
+# Design de Interface Finans
+
+<img src=".github/imagens/cabecalho-desktop.png" class="desktop">
+<img src=".github/imagens/cabecalho-mobile.png" class="mobile">

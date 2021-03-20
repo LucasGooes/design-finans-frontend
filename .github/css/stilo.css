@@ -1,0 +1,11 @@
+.desktop {
+    height: 160px; 
+    width:280px; 
+    border-radius: 2%;
+}
+
+.mobile {
+    height: 160px;
+    width: 80px;
+
+}
