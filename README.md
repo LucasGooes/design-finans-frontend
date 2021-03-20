@@ -2,5 +2,5 @@
 
 # Design de Interface Finans
 
-<img src=".github/imagens/cabecalho-desktop.png" width="200" height="120">
+<img src=".github/imagens/cabecalho-desktop.png" width="360" height="220">
 <img src=".github/imagens/cabecalho-mobile.png" class="mobile">
